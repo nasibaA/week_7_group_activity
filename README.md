@@ -1,5 +1,5 @@
 # week_7_group_activity
-1. ![data_model](week_7_group_activity.svg)
+1. ![data_model](week_7_gp_activity.svg)
 
 
 2. List of how Data can be "Dirty" and how to solve them. 
